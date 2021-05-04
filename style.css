@@ -6,20 +6,20 @@
     font-weight: bolder;
 }
 
-.dropdown-menu {
-    background-color: rgb(236, 176, 169) !important;
-}
-
 ul {
     font-size: 20px;
 }
-
-img {
-    width: 280px;
+body {
+    background-image: url("https://store-images.s-microsoft.com/image/apps.27382.13510798886980861.0b318a10-241a-457e-8cf2-d1233ab81c52.e1c0ce9b-522f-43fc-a864-59040c96d43d");
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+.imgs img{
+    max-width: 280px;
     height: 180px;
     margin: 7px;
 }
-
-.col-sm-12 {
-    width: 500px !important;
+.gal h2{
+    font-size: 55px;
+    margin-top: 20%;
 }
