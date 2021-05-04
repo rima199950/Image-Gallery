@@ -9,13 +9,13 @@
 ul {
     font-size: 20px;
 }
-body {
+.indx {
     background-image: url("https://store-images.s-microsoft.com/image/apps.27382.13510798886980861.0b318a10-241a-457e-8cf2-d1233ab81c52.e1c0ce9b-522f-43fc-a864-59040c96d43d");
     background-size:cover;
     background-repeat: no-repeat;
 }
 .imgs img{
-    max-width: 280px;
+    max-width: 500px;
     height: 180px;
     margin: 7px;
 }
