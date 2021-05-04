@@ -6,6 +6,8 @@
     font-weight: bolder;
 }
 
+
+
 ul {
     font-size: 20px;
 }
@@ -14,12 +16,13 @@ ul {
     background-size:cover;
     background-repeat: no-repeat;
 }
-img{
-    max-width: 500px;
-    height: 180px;
+.imgs img{
+    max-width: 600px;
+    max-height: 180px;
     margin: 7px;
 }
 .gal h2{
     font-size: 55px;
     margin-top: 20%;
 }
+
