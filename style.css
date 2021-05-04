@@ -1,0 +1,25 @@
+.navbar {
+    background-color: rgb(134, 190, 236) !important;
+}
+.navbar-brand {
+    font-size: 35px !important;
+    font-weight: bolder;
+}
+
+.dropdown-menu {
+    background-color: rgb(236, 176, 169) !important;
+}
+
+ul {
+    font-size: 20px;
+}
+
+img {
+    width: 280px;
+    height: 180px;
+    margin: 7px;
+}
+
+.col-sm-12 {
+    width: 500px !important;
+}
